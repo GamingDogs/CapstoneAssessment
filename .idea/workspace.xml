@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f728fa2-45a4-4c83-8cc3-013dd25c23dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CapstoneAssessment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuoteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuoteInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuoteMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuoteMultiMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CapstoneAssessment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f728fa2-45a4-4c83-8cc3-013dd25c23dc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +63,50 @@
       <option name="presentableId" value="Default" />
       <updated>1616016294199</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added files bro">
+      <created>1616025238756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616025238756</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added files bro">
+      <created>1616025282949</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616025282949</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added files bro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files bro" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="87" key="CommitChangelistDialog2" timestamp="1616025282259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="87" key="CommitChangelistDialog2/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616025282259" />
+    <state x="551" y="239" key="Vcs.Push.Dialog.v2" timestamp="1616025244529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616025244529" />
+    <state x="776" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616025327096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616025327096" />
   </component>
 </project>
