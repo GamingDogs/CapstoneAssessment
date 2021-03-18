@@ -45,6 +45,11 @@ public class QuoteCommand implements QuoteInterface {
 
     @Override
     public void multiMapExactAuthorSearch(String author) {
+        /**
+         * If the multimap contains the author then proceed
+         * Get all the values of the multimap
+         * Loop through collection of quotes and display them
+         */
         if (quoteBook.containsKey(author)) {
             Collection<String> values = new ArrayList<>(quoteBook.get(author));
             for (String quotes : values) {
@@ -55,6 +60,11 @@ public class QuoteCommand implements QuoteInterface {
 
     @Override
     public void multiMapPartialAuthorSearch(String author) {
+        /**
+         * Get the key and loop through them
+         * If the current author contains the users author
+         * then get and display the quotes
+         */
         for (String authors : quoteBook.keySet()) {
             if (authors.toLowerCase().contains(author.toLowerCase())) {
                 Collection<String> quotes = new ArrayList<>(quoteBook.get(authors));

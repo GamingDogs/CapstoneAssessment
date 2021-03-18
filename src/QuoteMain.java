@@ -53,10 +53,6 @@ public class QuoteMain {
                     util.help();
                     break;
             }
-
         }
-
     }
-
-
 }
