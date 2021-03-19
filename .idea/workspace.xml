@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CapstoneAssessment:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,7 +24,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f728fa2-45a4-4c83-8cc3-013dd25c23dc" name="Default Changelist" comment="" />
+    <list default="true" id="7f728fa2-45a4-4c83-8cc3-013dd25c23dc" name="Default Changelist" comment="Added new classes bro">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/CapstoneAssessment_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuoteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuoteCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuoteInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuoteInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuoteMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuoteMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuoteMultiMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuoteMultiMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QuoteMultiMapCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/QuoteMultiMapCommand.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +65,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3862069" />
+  </component>
+  <component name="RunManager">
+    <configuration name="QuoteMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuoteMain" />
+      <module name="CapstoneAssessment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuoteMain" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -77,7 +106,28 @@
       <option name="project" value="LOCAL" />
       <updated>1616025282949</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added files bro">
+      <created>1616025341171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616025341171</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Comments Cuz">
+      <created>1616029530427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616029530427</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added new classes bro">
+      <created>1616034182070</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616034182070</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,20 +140,67 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added files bro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files bro" />
+    <MESSAGE value="Added Comments Cuz" />
+    <MESSAGE value="Added new classes bro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new classes bro" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="87" key="CommitChangelistDialog2" timestamp="1616025282259">
+    <state x="764" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1616083539951">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="586" y="87" key="CommitChangelistDialog2/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616025282259" />
-    <state x="551" y="239" key="Vcs.Push.Dialog.v2" timestamp="1616025244529">
+    <state x="764" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616083539951" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1616034461572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="551" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616025244529" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616034461572" />
+    <state x="586" y="87" key="CommitChangelistDialog2" timestamp="1616034181074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="87" key="CommitChangelistDialog2/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616034181074" />
+    <state width="1875" height="685" key="GridCell.Tab.0.bottom" timestamp="1616187512314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="685" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616187512314" />
+    <state width="1875" height="685" key="GridCell.Tab.0.center" timestamp="1616187512314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="685" key="GridCell.Tab.0.center/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616187512314" />
+    <state width="1875" height="685" key="GridCell.Tab.0.left" timestamp="1616187512314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="685" key="GridCell.Tab.0.left/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616187512314" />
+    <state width="1875" height="685" key="GridCell.Tab.0.right" timestamp="1616187512314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="685" key="GridCell.Tab.0.right/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616187512314" />
+    <state width="1875" height="750" key="GridCell.Tab.1.bottom" timestamp="1616185888282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="750" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616185888282" />
+    <state width="1875" height="750" key="GridCell.Tab.1.center" timestamp="1616185888282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="750" key="GridCell.Tab.1.center/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616185888282" />
+    <state width="1875" height="750" key="GridCell.Tab.1.left" timestamp="1616185888282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="750" key="GridCell.Tab.1.left/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616185888282" />
+    <state width="1875" height="750" key="GridCell.Tab.1.right" timestamp="1616185888282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="750" key="GridCell.Tab.1.right/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616185888282" />
+    <state x="439" y="93" key="SettingsEditor" timestamp="1616034463801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="439" y="93" key="SettingsEditor/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616034463801" />
+    <state x="551" y="239" key="Vcs.Push.Dialog.v2" timestamp="1616034184468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.270.1280.680@0.0.1920.1040" timestamp="1616034184468" />
     <state x="776" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616025327096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

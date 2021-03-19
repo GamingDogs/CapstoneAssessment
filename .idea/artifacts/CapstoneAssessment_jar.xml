@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CapstoneAssessment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CapstoneAssessment_jar</output-path>
+    <root id="archive" name="CapstoneAssessment.jar">
+      <element id="module-output" name="CapstoneAssessment" />
+    </root>
+  </artifact>
+</component>
